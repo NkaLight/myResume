@@ -60,7 +60,7 @@
 ### Technical
 - **Programming Languages**: Java, JavaScript, R, Python
 - **Frameworks**: React, Three.js
-- **Tools**: Git, GitHub, GitBucket, GitLab
+- **Tools**: Git, GitHub, GitBucket, GitLab, etc
 - **Other**: HTML & CSS, Markdown, PlantUML
 
 ### Non-technical (transferrable)
