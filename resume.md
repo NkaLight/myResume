@@ -78,5 +78,7 @@
 - **Phone**: +64223062870
 - **Location**: Dunedin, NZ | Willing to relocate
 - **LinkedIn**: [Nkanyiso Owethu Ndlovu](https://www.linkedin.com/in/nkanyiso-owethu-ndlovu)
+- **GitHub**: [Profile Link](https://github.com/NkaLight)
 
 ---
+
